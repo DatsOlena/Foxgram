@@ -14,6 +14,10 @@ body {
     background-color: #fafafa;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     width: 672px;
     padding: 0 16px;
@@ -25,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     height: 100px;
-    min-width: 640px;
+    min-width: 672px;
     margin-bottom: 30px;
     background-color: #ffffff;
     border-bottom: 1px solid #c4c4c4;
@@ -40,7 +44,6 @@ body {
 
 .header__icons {
     margin: 0 -15px;
-
 }
 
 .header__icon {
